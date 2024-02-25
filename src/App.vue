@@ -24,7 +24,7 @@
 
       <div>
         <label for="resultado">Resultado:</label>
-        <input type="text" :value="resultado" readonly />
+        <input type="number" :value="resultado" readonly />
       </div>
     </div>
   </template>
